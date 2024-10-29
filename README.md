@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yawdba
-- 👀 I’m interested in Database Administration
+- 👀 I’m interested in Entry Level Database Administration
 - 📫 How to reach me yaogyimah@gmail.com
 
 - ## Skills
