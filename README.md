@@ -9,6 +9,7 @@
   * SQL & PL/SQL Programming
   * RMAN Backup and Recovery
   * User Management
+  * * **Tools:** Oracle SQL*Plus, Oracle SQL Developer
 
 <!---
 yawdba/yawdba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
