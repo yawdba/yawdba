@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yawdba
 - 👀 I’m interested in a Junior Database Administrator Role
 - 📫 How to reach me yaogyimah@gmail.com
-- 📄 [CV](docs/yaw_cv.pdf)
+- 📄 [My CV]("C:\Users\JAY\Documents\yaw cv.pdf")
 
 - ## Skills
 
