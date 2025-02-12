@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaw
 - 👀 I’m interested in SQL Server & Oracle SQL
 - 📫 How to reach me yaogyimah@gmail.com
-- 📄 [My Cv](https://github.com/yawdba/yawdba/blob/main/yaw%20cv.pdf)
+<!---- 📄 [My Cv](https://github.com/yawdba/yawdba/blob/main/yaw%20cv.pdf)--->
  
 
 <!---
